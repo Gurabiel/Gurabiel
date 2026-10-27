@@ -18,12 +18,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 忍 &nbsp;SHINOBI PROSTHETIC&nbsp; 忍
 
-| 🗡️ ARMA | 🪝 GANCHO | 🔥 FOGO | 🛡️ ESCUDO | 🏮 SANTUÁRIO |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7a0f1a?style=flat-square&logo=kotlin&logoColor=white) | ![Ktor](https://img.shields.io/badge/Ktor-1a1a1a?style=flat-square&logo=ktor&logoColor=c9a227) | ![Compose](https://img.shields.io/badge/Compose-7a0f1a?style=flat-square&logo=jetpackcompose&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-1a1a1a?style=flat-square&logo=junit5&logoColor=c9a227) | ![Room](https://img.shields.io/badge/Room-7a0f1a?style=flat-square&logo=sqlite&logoColor=white) |
-| Coroutines | Retrofit | Material 3 | MockK | SQLite |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
