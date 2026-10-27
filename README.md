@@ -1,109 +1,105 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · gurabiel</sub></p>
-<h1>Gabriel</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+# 🗡️ Gabriel · Shinobi do Kotlin
 
-<p><a href="https://github.com/gurabiel">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/162358896?v=4" width="180" alt="Gabriel GitHub avatar" />
-</td>
-</tr>
-</table>
+*Código limpo, defesa precisa, deploy sem hesitar.*
+
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>26 contributions · 6 active days</p></td>
-</tr>
-</table>
+## 🏯 Ashina, o meu dojo
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+Sou **Gabriel**, desenvolvedor **Kotlin**. Assim como o Lobo, aprendo errando, levanto e volto mais afiado. Cada bug é um inimigo estudado, cada refatoração é um golpe mais limpo.
 
-<h2>Proof at a glance</h2>
+```kotlin
+class Shinobi(
+    val nome: String = "Gabriel",
+    val arma: String = "Kotlin",
+    val honra: Boolean = true
+) {
+    private var postura = 0
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>26</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+    fun defender(bug: Bug) = when {
+        bug.previsivel -> bug.defletir()      // teste unitário no tempo certo
+        else -> bug.estudar().corrigir()      // aprende o padrão e volta
+    }
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Gabriel GitHub proof metrics" />
-</picture>
-</p>
+    fun ressurgir() = repeat(Int.MAX_VALUE) { tentar() }
 
-<h2>Selected work</h2>
+    private fun tentar() { /* mais uma vez, melhor */ }
+}
+```
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&repos=gurabiel%2FGurabiel&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&repos=gurabiel%2FGurabiel&v=recruiter-projects-1&mode=dark" width="100%" alt="Gabriel selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Gurabiel/Gurabiel">Gurabiel</a></h3>
-<p>My GitHub profile</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Gurabiel/Gurabiel">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+---
 
-<table width="100%">
-<tr>
+## 🧰 Prótese Shinobi (meu arsenal)
 
-</tr>
-</table>
+| Ferramenta | No jogo | No meu código |
+|---|---|---|
+| **Coroutines** | Movimento fluido e ágil | Concorrência sem travar a thread principal |
+| **Jetpack Compose** | Artes de combate | UI declarativa, direta e expressiva |
+| **Flow** | Ritmo de combate | Streams de dados reativos |
+| **Ktor / Retrofit** | Gancho de agarre | Chegar rápido até a API |
+| **Room** | Santuário (Ídolo de Buda) | Estado salvo e seguro |
+| **JUnit / MockK** | Defletir no momento exato | Testes que seguram o golpe |
 
-<h2>Technical toolkit</h2>
+---
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Gabriel technology stack" />
-</picture>
-</p>
+## ⚔️ Árvore de habilidades
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+- 🟣 **Artes Ashina**: Kotlin idiomático, null safety, sealed classes, extension functions
+- 🔴 **Artes Shinobi**: Android, Compose, arquitetura MVVM/Clean
+- 🟢 **Artes da Prótese**: Gradle, CI/CD, Git
+- ⚫ **Em treino**: Kotlin Multiplatform, backend com Ktor
 
-<h2>Consistency signal</h2>
+---
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gurabiel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162358896%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Gabriel contribution activity" />
-</picture>
-</p>
+## 📜 Os mandamentos do Lobo
 
-<hr />
+1. **Postura primeiro.** Arquitetura sólida antes de código bonito.
+2. **Deflita, não bloqueie.** Trate erros com elegância (`Result`, `sealed class`), sem esconder exceções.
+3. **Estude o inimigo.** Leia o log antes de mudar uma linha.
+4. **Um golpe mortal.** Commits pequenos, claros e certeiros.
+5. **Ressurgir é permitido.** Falhou o build? Respira, corrige, tenta de novo.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/gurabiel">GitHub</a></td>
-</tr>
-</table>
+---
 
-<p align="center"><sub>Gabriel · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## 📊 Campo de batalha
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=gurabiel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=b125ea&icon_color=b125ea)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gurabiel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=b125ea)
+
+</div>
+
+---
+
+## 🔥 Projetos (os golpes que eu dei)
+
+> Ainda forjando a lâmina. Novos projetos em Kotlin chegando em breve. Passe aqui de vez em quando. 🗡️
+
+<!-- Quando tiver projetos, adicione assim:
+### [nome-do-projeto](https://github.com/gurabiel/nome-do-projeto)
+Descrição curta do que ele faz · `Kotlin` `Compose`
+-->
+
+---
+
+## 📫 Vamos conversar?
+
+Aberto a boas equipes, produtos ambiciosos e trabalho de engenharia que importa.
+
+[![GitHub](https://img.shields.io/badge/GitHub-gurabiel-181717?style=for-the-badge&logo=github)](https://github.com/gurabiel)
+
+<div align="center">
+
+*"Um bom dev não é o que nunca cai, é o que volta ao código."* 🏮
+
+</div>
