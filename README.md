@@ -1,33 +1,36 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/banner.svg" width="100%" alt="Gabriel · Kotlin Developer" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-banner.svg" width="100%" alt="Gabriel · Kotlin Developer" />
 
 <a href="https://github.com/gurabiel">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=600&lines=KOTLIN+DEVELOPER;ANDROID+·+COMPOSE+·+COROUTINES;忍+SHINOBI+CRAFT" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF6A1A&center=true&vCenter=true&width=620&lines=KOTLIN+DEVELOPER;ANDROID+·+COMPOSE+·+COROUTINES;修羅+SHURA" alt="typing" />
 </a>
 
 <br />
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7a0f1a?style=for-the-badge&logo=kotlin&logoColor=f2e9d8)
-![Android](https://img.shields.io/badge/Android-1a1a1a?style=for-the-badge&logo=android&logoColor=c9a227)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-7a0f1a?style=for-the-badge&logo=jetpackcompose&logoColor=f2e9d8)
-![Gradle](https://img.shields.io/badge/Gradle-1a1a1a?style=for-the-badge&logo=gradle&logoColor=c9a227)
-![Git](https://img.shields.io/badge/Git-7a0f1a?style=for-the-badge&logo=git&logoColor=f2e9d8)
+![Kotlin](https://img.shields.io/badge/Kotlin-9c1410?style=for-the-badge&logo=kotlin&logoColor=ffb347)
+![Android](https://img.shields.io/badge/Android-1a0705?style=for-the-badge&logo=android&logoColor=ff6a1a)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-9c1410?style=for-the-badge&logo=jetpackcompose&logoColor=ffb347)
+![Gradle](https://img.shields.io/badge/Gradle-1a0705?style=for-the-badge&logo=gradle&logoColor=ff6a1a)
+![Git](https://img.shields.io/badge/Git-9c1410?style=for-the-badge&logo=git&logoColor=ffb347)
 
 <br />
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
 
-## 忍 &nbsp;SHINOBI PROSTHETIC&nbsp; 忍
+## 🔥 &nbsp;ARSENAL&nbsp; 🔥
 
 | 🗡️ ARMA | 🪝 GANCHO | 🔥 FOGO | 🛡️ ESCUDO | 🏮 SANTUÁRIO |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7a0f1a?style=flat-square&logo=kotlin&logoColor=white) | ![Ktor](https://img.shields.io/badge/Ktor-1a1a1a?style=flat-square&logo=ktor&logoColor=c9a227) | ![Compose](https://img.shields.io/badge/Compose-7a0f1a?style=flat-square&logo=jetpackcompose&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-1a1a1a?style=flat-square&logo=junit5&logoColor=c9a227) | ![Room](https://img.shields.io/badge/Room-7a0f1a?style=flat-square&logo=sqlite&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-9c1410?style=flat-square&logo=kotlin&logoColor=ffb347) | ![Ktor](https://img.shields.io/badge/Ktor-1a0705?style=flat-square&logo=ktor&logoColor=ff6a1a) | ![Compose](https://img.shields.io/badge/Compose-9c1410?style=flat-square&logo=jetpackcompose&logoColor=ffb347) | ![JUnit](https://img.shields.io/badge/JUnit-1a0705?style=flat-square&logo=junit5&logoColor=ff6a1a) | ![Room](https://img.shields.io/badge/Room-9c1410?style=flat-square&logo=sqlite&logoColor=ffb347) |
 | Coroutines | Retrofit | Material 3 | MockK | SQLite |
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
 
-## ⛩️ &nbsp;ÁRVORE DE HABILIDADES&nbsp; ⛩️
+## 👁️ &nbsp;ÁRVORE DE HABILIDADES&nbsp; 👁️
+
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-eye.svg" width="260" alt="" />
 
 </div>
 
@@ -35,32 +38,32 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🟣 ARTES ASHINA
+### 🔴 ARTES DE FOGO
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=c9a227)
-![Coroutines](https://img.shields.io/badge/Coroutines-0d0d0d?style=flat-square&logo=kotlin&logoColor=c9a227)
-![Flow](https://img.shields.io/badge/Flow-0d0d0d?style=flat-square&logo=kotlin&logoColor=c9a227)
-![Sealed](https://img.shields.io/badge/Sealed_Classes-0d0d0d?style=flat-square&logo=kotlin&logoColor=c9a227)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a0302?style=flat-square&logo=kotlin&logoColor=ff6a1a)
+![Coroutines](https://img.shields.io/badge/Coroutines-0a0302?style=flat-square&logo=kotlin&logoColor=ff6a1a)
+![Flow](https://img.shields.io/badge/Flow-0a0302?style=flat-square&logo=kotlin&logoColor=ff6a1a)
+![Sealed](https://img.shields.io/badge/Sealed_Classes-0a0302?style=flat-square&logo=kotlin&logoColor=ff6a1a)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🔴 ARTES SHINOBI
+### 🟠 ARTES DE LÂMINA
 
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=flat-square&logo=android&logoColor=c9a227)
-![Compose](https://img.shields.io/badge/Compose-0d0d0d?style=flat-square&logo=jetpackcompose&logoColor=c9a227)
-![MVVM](https://img.shields.io/badge/MVVM-0d0d0d?style=flat-square&logoColor=c9a227)
-![Hilt](https://img.shields.io/badge/Hilt-0d0d0d?style=flat-square&logo=dagger&logoColor=c9a227)
+![Android](https://img.shields.io/badge/Android-0a0302?style=flat-square&logo=android&logoColor=ff6a1a)
+![Compose](https://img.shields.io/badge/Compose-0a0302?style=flat-square&logo=jetpackcompose&logoColor=ff6a1a)
+![MVVM](https://img.shields.io/badge/MVVM-0a0302?style=flat-square&logoColor=ff6a1a)
+![Hilt](https://img.shields.io/badge/Hilt-0a0302?style=flat-square&logo=dagger&logoColor=ff6a1a)
 
 </td>
 <td width="33%" valign="top" align="center">
 
 ### ⚫ ARTES DA PRÓTESE
 
-![Gradle](https://img.shields.io/badge/Gradle-0d0d0d?style=flat-square&logo=gradle&logoColor=c9a227)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=c9a227)
-![GitHub Actions](https://img.shields.io/badge/Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=c9a227)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d0d0d?style=flat-square&logo=intellijidea&logoColor=c9a227)
+![Gradle](https://img.shields.io/badge/Gradle-0a0302?style=flat-square&logo=gradle&logoColor=ff6a1a)
+![Git](https://img.shields.io/badge/Git-0a0302?style=flat-square&logo=git&logoColor=ff6a1a)
+![GitHub Actions](https://img.shields.io/badge/Actions-0a0302?style=flat-square&logo=githubactions&logoColor=ff6a1a)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0a0302?style=flat-square&logo=intellijidea&logoColor=ff6a1a)
 
 </td>
 </tr>
@@ -68,48 +71,39 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
 
 ## ⚔️ &nbsp;CAMPO DE BATALHA&nbsp; ⚔️
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/posture.svg" width="80%" alt="" />
+<img src="https://github-readme-stats.vercel.app/api?username=gurabiel&show_icons=true&hide_border=true&bg_color=0a0302&title_color=ff6a1a&icon_color=c0152a&text_color=f2e9d8&ring_color=ff6a1a" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurabiel&layout=compact&hide_border=true&bg_color=0a0302&title_color=ff6a1a&text_color=f2e9d8" height="170" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurabiel&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a227&icon_color=7a0f1a&text_color=f2e9d8&ring_color=7a0f1a" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurabiel&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a227&text_color=f2e9d8" height="170" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=gurabiel&hide_border=true&background=0d0d0d&ring=7a0f1a&fire=c9a227&currStreakLabel=c9a227&sideLabels=f2e9d8&currStreakNum=f2e9d8&sideNums=f2e9d8&dates=8a8a8a" width="80%" />
+<img src="https://streak-stats.demolab.com?user=gurabiel&hide_border=true&background=0a0302&ring=c0152a&fire=ff6a1a&currStreakLabel=ff6a1a&sideLabels=f2e9d8&currStreakNum=f2e9d8&sideNums=f2e9d8&dates=8a8a8a" width="80%" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurabiel&bg_color=0d0d0d&color=c9a227&line=7a0f1a&point=f2e9d8&area=true&area_color=7a0f1a&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurabiel&bg_color=0a0302&color=ff6a1a&line=c0152a&point=f2e9d8&area=true&area_color=c0152a&hide_border=true" width="100%" />
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
 
 ## 🏆 &nbsp;CONQUISTAS&nbsp; 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=gurabiel&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
 
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
+
+## 修羅 &nbsp;SHURA&nbsp; 修羅
+
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-emblem.svg" width="240" alt="" />
+
 <br />
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/deflect.svg" width="300" alt="" />
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/deathblow.svg" width="300" alt="" />
+<a href="https://github.com/gurabiel"><img src="https://img.shields.io/badge/GitHub-gurabiel-0a0302?style=for-the-badge&logo=github&logoColor=ff6a1a" /></a>
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://komarev.com/ghpvc/?username=gurabiel&label=VISITANTES&color=9c1410&style=for-the-badge" />
 
-## 🏮 &nbsp;SANTUÁRIO&nbsp; 🏮
-
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/lantern.svg" width="90" alt="" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/gurabiel"><img src="https://img.shields.io/badge/GitHub-gurabiel-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a227" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/lantern.svg" width="90" alt="" style="transform:scaleX(-1)" />
-
-<img src="https://komarev.com/ghpvc/?username=gurabiel&label=VISITANTES&color=7a0f1a&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:7a0f1a,100:0d0d0d&height=140&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-footer.svg" width="100%" alt="" />
 
 </div>
