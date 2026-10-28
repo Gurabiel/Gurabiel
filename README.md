@@ -24,7 +24,7 @@
 | 🗡️ ARMA | 🪝 GANCHO | 🔥 FOGO | 🛡️ ESCUDO | 🏮 SANTUÁRIO |
 |:---:|:---:|:---:|:---:|:---:|
 | ![Kotlin](https://img.shields.io/badge/Kotlin-9c1410?style=flat-square&logo=kotlin&logoColor=ffb347) | ![Ktor](https://img.shields.io/badge/Ktor-1a0705?style=flat-square&logo=ktor&logoColor=ff6a1a) | ![Compose](https://img.shields.io/badge/Compose-9c1410?style=flat-square&logo=jetpackcompose&logoColor=ffb347) | ![JUnit](https://img.shields.io/badge/JUnit-1a0705?style=flat-square&logo=junit5&logoColor=ff6a1a) | ![Room](https://img.shields.io/badge/Room-9c1410?style=flat-square&logo=sqlite&logoColor=ffb347) |
-| Coroutines | Retrofit | Material 3 | MockK | SQLite |
+| Coroutines | Retrofit/Ktor | Material 3 | SQLite |
 
 <img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
 
