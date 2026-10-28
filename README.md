@@ -86,7 +86,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurabiel&bg_color=0a0302&color=ff6a1a&line=c0152a&point=f2e9d8&area=true&area_color=c0152a&hide_border=true" width="100%" />
 
-<img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" />
+<!-- <img src="https://raw.githubusercontent.com/gurabiel/Gurabiel/main/assets/shura-divider.svg" width="100%" alt="" /> -->
 
 ## 🏆 &nbsp;CONQUISTAS&nbsp; 🏆
 
